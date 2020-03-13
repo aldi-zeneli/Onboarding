@@ -1,0 +1,13 @@
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\CityInfo2.deps.json
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\CityInfo2.runtimeconfig.json
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\CityInfo2.runtimeconfig.dev.json
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\CityInfo2.dll
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\CityInfo2.pdb
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\obj\Debug\netcoreapp2.0\CityInfo2.csprojAssemblyReference.cache
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\obj\Debug\netcoreapp2.0\CityInfo2.AssemblyInfoInputs.cache
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\obj\Debug\netcoreapp2.0\CityInfo2.AssemblyInfo.cs
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\obj\Debug\netcoreapp2.0\CityInfo2.dll
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\obj\Debug\netcoreapp2.0\CityInfo2.pdb
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\nlog.config
+C:\Users\aldi.zeneli\source\repos\CityInfo2\CityInfo2\bin\Debug\netcoreapp2.0\AppSettings.json

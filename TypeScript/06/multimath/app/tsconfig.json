@@ -1,0 +1,22 @@
+{
+	"extends": "../tsconfig.base",
+	"compilerOptions": {
+		"removeComments":true,
+		//"outFile": "../js/app.js"	//opzione che butta tutto il js creato da tutti i file ts in un solo file js invece che in file singoli
+		"module": "CommonJS",
+		"moduleResolution": "node"
+		// "traceResolution":  true,
+		// "baseUrl": "./modules",
+		// "paths": {
+		// 	"my_lib": ["./customPath"]
+		// },
+		// "rootDirs": [
+		// 	"modules",
+		// 	"src",
+		// 	"ts/modules"
+		// ]
+	},
+	"files":[
+		"./app.ts"
+	]
+}
